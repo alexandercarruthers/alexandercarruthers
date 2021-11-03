@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python Django, Time Series Forecasting, Computer Vision
+- 🌱 I’m currently learning Python Django, Time Series Forecasting, Computer Vision and grinding LeetCode
+
+
+[![LeetCode user user2897k](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuser2897k&logo=leetcode&logoColor=yellow)](https://leetcode.com/user2897k/)
+
 <!--
 **alexandercarruthers/alexandercarruthers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
